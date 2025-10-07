@@ -22,7 +22,7 @@ Ultimamente, tenho utilizado essas linguagens com maior frequência.
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre
 
 Olá, meu nome é **Esdras Levi** e sou um jovem apaixonado por tecnologia e programação. Desde cedo despertei interesse pelo mundo digital e fui descobrindo que programar não é apenas uma ferramenta de trabalho, mas também uma forma de expressar criatividade e resolver problemas de maneira inteligente.
 
