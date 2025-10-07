@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Ultimamente, tenho utilizado essas linguagens com maior frequência.  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras132&layout=compact&hide=html" alt="Esdras132 " /></p>
 
----
+------
 
 ## 👨‍💻 Sobre
 
