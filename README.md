@@ -22,11 +22,6 @@ Ultimamente, tenho utilizado essas linguagens com maior frequência.
 
 ---
 
-## 🏠 Navegação  
-**[Início](#esdras--portfolio)** • [Sobre mim](#sobre-mim) • [Habilidades](#habilidades) • [Projetos](#meus-principais-projetos) • [Experiência / Formação](#experiência--formação) • [Contato](#minhas-redes)
-
----
-
 ## 👨‍💻 Sobre Mim
 
 Olá, meu nome é **Esdras Levi** e sou um jovem apaixonado por tecnologia e programação. Desde cedo despertei interesse pelo mundo digital e fui descobrindo que programar não é apenas uma ferramenta de trabalho, mas também uma forma de expressar criatividade e resolver problemas de maneira inteligente.
@@ -62,29 +57,24 @@ Além disso, valorizo habilidades interpessoais que tornam meu trabalho mais col
 
 Aqui estão alguns dos meus principais projetos com links diretos e descrição:
 
-### 🛒 [Lista de Compras](https://github.com/Esdras132/lista_de_compras)
+### 🛒 [Lista de Compras](https://github.com/Esdras132/lista_app)
 Aplicativo feito em **Flutter e Firebase** para criar e gerenciar listas de compras.  
 **Meu papel:** Criação dos componentes em Flutter, consumo de dados do Firebase e design responsivo.
 
 ---
 
-### 📊 [Dashboard de Funcionários e Alunos (Power BI)](https://github.com/Esdras132/dashboard_powerbi)
+### 📊 [Dashboard de Funcionários e Alunos (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiYTM0NDI4OTYtODAyNi00NjA3LWI1MzQtYjhkYTE1Nzc3M2M2IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 Painel interativo criado em **Power BI** para acompanhar métricas de funcionários e alunos (fictício).  
 **Meu papel:** Criação dos componentes, design responsivo e integração com **SQL Server**.
 
 ---
 
-### 🌐 [API Node.js para Estudos](https://github.com/Esdras132/api-node-study)
+### 🌐 [API Node.js para Estudos](https://github.com/Esdras132/api_node_estudo)
 API feita em **Node.js** com foco em aprendizado e boas práticas.  
 **Meu papel:** Criação da estrutura de rotas, middlewares e integração com banco de dados.
 
 ---
 
-### 💻 [Portfólio Pessoal (Angular)](https://esdras-projects.web.app/)
-Website feito em **Angular** para apresentar meus projetos e habilidades.  
-**Meu papel:** Criação do layout responsivo, organização do conteúdo e publicação na web.
-
----
 
 ## 🎓 Experiência / Formação
 
@@ -110,7 +100,7 @@ Website feito em **Angular** para apresentar meus projetos e habilidades.
 - 💼 [LinkedIn](https://www.linkedin.com/in/esdraslevi/)  
 - 🐙 [GitHub](https://github.com/Esdras132)  
 - 📷 [Instagram](https://www.instagram.com/esdraslevi_)  
-- 💌 **E-mail:** [esdraslevi132@gmail.com](mailto:esdraslevi132@gmail.com)
+- 💌 **E-mail:** [esdras.gg.12@gmail.com](mailto:esdras.gg.12@gmail.com)
 
 ---
 
